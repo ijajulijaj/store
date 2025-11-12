@@ -1,0 +1,532 @@
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllOffersController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AllProductsController.php on line 10
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AnnouncementController.php on line 8
+[05-Nov-2025 09:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/AuthController.php on line 16
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CompleteOrdersController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CustomerReviewController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/DashboardController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/ImagesController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CategorySubCatController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderModifyController.php on line 8
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/allCustomerReportController.php on line 10
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderReportController.php on line 12
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderTransferController.php on line 9
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PendingOrdersController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/CancelOrdersController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OutletController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/PromosController.php on line 8
+[05-Nov-2025 09:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9
+[05-Nov-2025 09:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OnlineTransactionController.php on line 8
+[05-Nov-2025 09:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/app/Http/Controllers/OrderStatusController.php on line 9

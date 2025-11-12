@@ -1,0 +1,36 @@
+[05-Nov-2025 09:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:46:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12
+[05-Nov-2025 09:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/agorasup/public_html/store/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/database/factories/UserFactory.php on line 12

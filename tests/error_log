@@ -1,0 +1,116 @@
+[05-Nov-2025 09:47:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
+[05-Nov-2025 09:48:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/agorasup/public_html/store/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/agorasup/public_html/store/tests/TestCase.php on line 7
