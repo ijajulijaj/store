@@ -1,7 +1,68 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
+# # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy PHP app to Azure Web App - store
+# name: Build and deploy PHP app to Azure Web App - store
+
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: read #This is required for actions/checkout
+
+#     steps:
+#       - uses: actions/checkout@v4
+
+#       - name: Setup PHP
+#         uses: shivammathur/setup-php@v2
+#         with:
+#           php-version: '8.2'
+
+#       - name: Check if composer.json exists
+#         id: check_files
+#         uses: andstor/file-existence-action@v1
+#         with:
+#           files: 'composer.json'
+
+#       - name: Run composer install if composer.json exists
+#         if: steps.check_files.outputs.files_exists == 'true'
+#         run: composer validate --no-check-publish && composer install --prefer-dist --no-progress
+
+
+#       - name: Upload artifact for deployment job
+#         uses: actions/upload-artifact@v4
+#         with:
+#           name: php-app
+#           path: .
+
+#   deploy:
+#     runs-on: ubuntu-latest
+#     needs: build
+    
+#     steps:
+#       - name: Download artifact from build job
+#         uses: actions/download-artifact@v4
+#         with:
+#           name: php-app
+      
+#       - name: 'Deploy to Azure Web App'
+#         uses: azure/webapps-deploy@v3
+#         id: deploy-to-webapp
+#         with:
+#           app-name: 'store'
+#           slot-name: 'Production'
+#           package: .
+
+#           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_594FAB6C747F4BCEB170649394D65DE0 }}
+
+
+
+name: Build and deploy Laravel app to Azure Web App - store
 
 on:
   push:
@@ -12,47 +73,42 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read #This is required for actions/checkout
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
           php-version: '8.2'
+          extensions: mbstring, bcmath, intl, pdo_mysql
+          coverage: none
 
-      - name: Check if composer.json exists
-        id: check_files
-        uses: andstor/file-existence-action@v1
-        with:
-          files: 'composer.json'
+      - name: Install Composer dependencies
+        run: |
+          composer install --no-dev --optimize-autoloader
+          php artisan config:clear
+          php artisan route:clear
+          php artisan view:clear
+          php artisan storage:link
 
-      - name: Run composer install if composer.json exists
-        if: steps.check_files.outputs.files_exists == 'true'
-        run: composer validate --no-check-publish && composer install --prefer-dist --no-progress
-
-
-      - name: Upload artifact for deployment job
+      - name: Upload artifact for deployment
         uses: actions/upload-artifact@v4
         with:
-          name: php-app
+          name: laravel-app
           path: .
 
   deploy:
     runs-on: ubuntu-latest
     needs: build
-    
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
         with:
-          name: php-app
-      
-      - name: 'Deploy to Azure Web App'
+          name: laravel-app
+
+      - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
-        id: deploy-to-webapp
         with:
           app-name: 'store'
           slot-name: 'Production'
