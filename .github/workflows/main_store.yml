@@ -34,6 +34,16 @@ jobs:
         run: composer validate --no-check-publish && composer install --prefer-dist --no-progress
 
 
+      - name: Set Azure App Service Startup Command
+        uses: azure/cli@v2
+        with:
+          inlineScript: |
+            az webapp config set \
+              --resource-group rg-agora-apps \
+              --name store \
+              --startup-file "cp /home/site/wwwroot/public/nginx.conf /etc/nginx/sites-available/default && nginx -s reload"
+
+
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
@@ -59,6 +69,7 @@ jobs:
           package: .
 
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_594FAB6C747F4BCEB170649394D65DE0 }}
+
 
 
 
