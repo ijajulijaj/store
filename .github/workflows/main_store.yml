@@ -61,6 +61,16 @@ jobs:
 
 
 
+      - name: Set Azure App Service Startup Command
+        uses: azure/cli@v2
+        with:
+          inlineScript: |
+            az webapp config set \
+              --resource-group rg-agora-apps \
+              --name store \
+              --startup-file "cp /home/site/wwwroot/public/nginx.conf /etc/nginx/sites-available/default && nginx -s reload"
+
+
 
 
 
