@@ -21,6 +21,7 @@ $response = $kernel->handle(
     $request = Request::capture()
 );
 
+// Response handle the request and send to the server...
 $response->send();
 
 $kernel->terminate($request, $response);
