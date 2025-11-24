@@ -1,5 +1,5 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
+# # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# # More GitHub Actions for Azure: https://github.com/Azure/actions
 
 name: Build and deploy PHP app to Azure Web App - store
 
@@ -23,17 +23,18 @@ jobs:
       - name: Install composer
         run: composer install --no-dev --optimize-autoloader
 
-      - name: Prepare build
-        run: |
-          mkdir build
-          cp -R app bootstrap config database public resources routes storage vendor artisan composer.json composer.lock build/
-          cp -R public build/public
-
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: php-app
-          path: build
+          path: |
+            ./
+            !vendor
+            !node_modules
+            !storage/logs
+            !storage/framework/cache/data/*
+            !tests
+            !.github
 
   deploy:
     runs-on: ubuntu-latest
@@ -51,3 +52,11 @@ jobs:
           slot-name: 'Production'
           package: .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_594FAB6C747F4BCEB170649394D65DE0 }}
+
+
+
+
+
+
+
+
