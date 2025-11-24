@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <!-- Browser tab-->
+  <!-- Browser tab icon-->
   <title>Agora Superstores - Admin Panel</title>
   
   <!-- Favicon -->
