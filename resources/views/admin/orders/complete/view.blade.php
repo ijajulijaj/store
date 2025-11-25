@@ -14,7 +14,7 @@
                 <h1>Order Invoice</h1>
                 <p>Order ID: <span class="highlight">#{{ $order['order_id'] }}</span></p>
             
-                <img src="{{ asset('admin_assets/img/logo.png') }}" alt="Logo" style="height:40px; position:absolute; top:0; right:0;">
+                <img src="{{ asset('public/admin_assets/img/logo.png') }}" alt="Logo" style="height:40px; position:absolute; top:0; right:0;">
             </div>
             
             <!-- Customer Information -->

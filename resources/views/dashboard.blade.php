@@ -357,7 +357,7 @@
 
 @section('scripts')
 <!-- Chart.js -->
-<script src="{{ asset('admin_assets/js/chart.js') }}"></script>
+<script src="{{ asset('public/admin_assets/js/chart.js') }}"></script>
 <script>
     window.monthlyForecastData = @json($monthlyForecast ?? []);
     window.growthData = @json($growthData ?? []);
@@ -372,5 +372,5 @@
 
 </script>
 
-<script src="{{ asset('admin_assets/js/style.js') }}"></script>
+<script src="{{ asset('public/admin_assets/js/style.js') }}"></script>
 @endsection

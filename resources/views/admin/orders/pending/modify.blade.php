@@ -292,5 +292,5 @@
   </div>
 </div>
 
-<script src="{{ asset('admin_assets/js/order-modify.js') }}"></script>
+<script src="{{ asset('public/admin_assets/js/order-modify.js') }}"></script>
 @endsection

@@ -8,7 +8,7 @@
   <!-- Center: Logo -->
   <div class="d-flex justify-content-center flex-grow-1">
     <a href="{{ url('/') }}">
-      <img src="{{ asset('admin_assets/img/logo.png') }}" alt="Company Logo" 
+      <img src="{{ asset('public/admin_assets/img/logo.png') }}" alt="Company Logo" 
            style="height:40px; max-width:160px;" class="img-fluid">
     </a>
   </div>

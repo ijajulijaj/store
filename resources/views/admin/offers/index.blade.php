@@ -114,7 +114,7 @@
 @endsection
 
 @section('scripts') 
-<script src="{{ asset('admin_assets/js/dashboard.js') }}"></script> 
+<script src="{{ asset('public/admin_assets/js/dashboard.js') }}"></script> 
 <script>
     // File input label handling
     document.querySelector('.custom-file-input').addEventListener('change', function(e) {

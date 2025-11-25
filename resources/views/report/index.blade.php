@@ -1,8 +1,8 @@
 @extends('layouts.app')
 
 <!-- Custom styles for this template-->
-<link href="{{ asset('admin_assets/css/bootstrap.min.css') }}" rel="stylesheet">
-<link href="{{ asset('admin_assets/css/style.css') }}" rel="stylesheet">
+<link href="{{ asset('public/admin_assets/css/bootstrap.min.css') }}" rel="stylesheet">
+<link href="{{ asset('public/admin_assets/css/style.css') }}" rel="stylesheet">
 
 @section('contents')
     <div class="row">

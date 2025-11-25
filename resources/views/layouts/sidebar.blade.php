@@ -3,7 +3,7 @@
   <!-- Sidebar - Brand -->
   <a class="sidebar-brand d-flex flex-column align-items-center justify-content-center" href="{{ route('dashboard') }}">
     <div class="sidebar-brand-icon mb-2">
-      <img src="{{ asset('admin_assets/img/logo.png') }}" alt="Company Logo" style="height:25px; width:auto;">
+      <img src="{{ asset('public/admin_assets/img/logo.png') }}" alt="Company Logo" style="height:25px; width:auto;">
     </div>
     <div class="sidebar-brand-text" style="font-size: 0.65rem; text-align: center;">
       Agora Superstores
