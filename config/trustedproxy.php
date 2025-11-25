@@ -1,5 +1,7 @@
 <?php
 
+use Symfony\Component\HttpFoundation\Request;
+
 return [
 
     /*
@@ -8,13 +10,17 @@ return [
     |--------------------------------------------------------------------------
     */
 
-    'proxies' => '*',
+    'proxies' => '*', // Trust all Azure proxies
 
     /*
     |--------------------------------------------------------------------------
-    | Headers that should be trusted
+    | Trusted Headers
     |--------------------------------------------------------------------------
     */
 
-    'headers' => Illuminate\Http\Request::HEADER_X_FORWARDED_ALL,
+    'headers' => Request::HEADER_X_FORWARDED_FOR
+                | Request::HEADER_X_FORWARDED_HOST
+                | Request::HEADER_X_FORWARDED_PROTO
+                | Request::HEADER_X_FORWARDED_PORT
+                | Request::HEADER_X_FORWARDED_PREFIX,
 ];
