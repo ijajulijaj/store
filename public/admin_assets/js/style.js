@@ -465,8 +465,21 @@ function initTopOutletChart(data) {
             responsive: true,
             maintainAspectRatio: false,
             scales: {
-                y: { beginAtZero: true, title: { display: true, text: 'Total Orders' } },
-                x: { title: { display: true, text: 'Top 10 Outlets' } }
+                y: { beginAtZero: true, 
+                title: { 
+                        display: true, 
+                        text: 'Total Orders',
+                        font: { size: 14, weight: 'bold' }
+                    } 
+                },
+                x: { 
+                    title: { 
+                        display: true, 
+                        text: 'Top 10 Outlets',
+                        font: { size: 14, weight: 'bold' }
+                    } 
+                    
+                }
             }
         }
     });
